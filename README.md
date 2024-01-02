@@ -136,10 +136,11 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Alt text](<Screenshot (79).png>)
+![Screenshot (79)](https://github.com/mugil25/MathServer/assets/148515771/1c27ad6f-dc9c-4c21-a5c6-fb5c0b8b69f5)
+
 
 ## HOMEPAGE:
-![Alt text](<Screenshot (78).png>)
+![Screenshot (78)](https://github.com/mugil25/MathServer/assets/148515771/c7190fa8-8645-40f8-8453-a35d385f8c4f)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
